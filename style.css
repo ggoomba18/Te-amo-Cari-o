@@ -1,0 +1,40 @@
+img{
+    width: 30%;
+}
+body{
+    text-align: center;
+    background-color: indianred;
+    color: white;
+}
+nav{
+    background-color: indianred;
+    color: white;
+}
+a{
+    text-decoration: none;
+    font-family: cursive;
+    font-size: 20px;
+    color: white;
+}
+.hola{
+    text-decoration: none;
+    font-family: cursive;
+    font-size: 15px;
+    color: indianred;
+}
+.hola,a:hover{
+    color: indianred;
+}
+.a{
+    text-decoration: none;
+    font-family: cursive;
+    font-size: 35px;
+    color: white;
+}
+a:hover{
+    color: crimson;
+}
+b{
+    font-family: cursive;
+    font-size: 35px;
+}
